@@ -19,7 +19,7 @@
 
 ## Sobre mí
 
-- 🌱 Actualmente aprendiendo **JavaScript, Tailwind y Spring Boot**
+- 🌱 Actualmente aprendiendo **JavaScript, Tailwind y BootStrap**
 - 🎯 Objetivo: convertirme en desarrolladora full stack profesional
 - 💡 Interesada en desarrollo web y backend
 - 
