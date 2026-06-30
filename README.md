@@ -9,6 +9,11 @@
 **Role:** Desarrolladora Full Stack  
 **Descripción:** Estudiante de FP DAW con pasión por aprender y crear contenido.
 
+## Páginas webs realizadas
+- Página web portfolio: https://alipidev.github.io/alipidev-web/index.html
+- Página web Personal Trainer: https://alipidev.github.io/webPersonalTrainer/
+- Página web Boda: https://alipidev.github.io/boda/index.html
+
 ## Tecnologías
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,7 +27,7 @@
 - 🌱 Actualmente aprendiendo **JavaScript, Tailwind y BootStrap**
 - 🎯 Objetivo: convertirme en desarrolladora full stack profesional
 - 💡 Interesada en desarrollo web y backend
-- 
+
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/alina-puscas-a07036221/)
 - [Portfolio](https://alipidev.github.io/alipidev-web/index.html)
